@@ -27,7 +27,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="Cubos Academy" title="#CubosAcademy" src="./Capa%20GitHub.png" />
+    <img alt="Cubos Academy" title="#CubosAcademy" src="Capa GItHub.png" />
 </h1>
 
 <h4 align="center"> 
