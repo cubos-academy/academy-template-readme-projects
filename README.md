@@ -51,7 +51,8 @@
 📄 Academy Template README Projects - é o modelo oficial de README de projetos da Cubos Academy.
 
 
-Projeto desenvolvido durante a **[Turma | Evento ]** oferecida pela [Cubos Academy](https://cubos.academy/).
+Projeto desenvolvido durante a **[Turma | Evento]** oferecida pela [Cubos Academy](https://cubos.academy/).
+
 A Cubos Academy é uma escola com cursos de tecnologia para todos os perfis, do iniciante ao avançado.
 
 ---
@@ -84,22 +85,22 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home-mobile.png" width="200px">
+  <img alt="Nome do Projeto" title="Nome do Projeto" src="./assets/home-mobile.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/detalhes-mobile.svg" width="200px">
+  <img alt="Nome do Projeto" title="Nome do Projeto" src="./assets/detalhes-mobile.svg" width="200px">
 </p>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
+  <img alt="Nome do Projeto" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.svg" width="400px">
+  <img alt="Nome do Projeto" title="Nome do Projeto" src="./assets/sucesso-web.svg" width="400px">
 </p>
 
 ---
 
-## 🚀 Como executar o projeto
+## 🛣️ Como executar o projeto
 
 Este projeto é divido em três partes:
 1. Backend (pasta server) 
@@ -137,7 +138,7 @@ $ npm run dev:server
 
 ```
 <p align="center">
-  <a href="https://github.com/tgmarinho/README-ecoleta/blob/master/Insomnia_API_Ecoletajson.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+  <a href="https://github.com/cubos-academy/academy-template-readme-projects" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 
@@ -146,10 +147,10 @@ $ npm run dev:server
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone git@github.com:cubos-academy/academy-template-readme-projects.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd README-ecoleta
+$ cd academy-template-readme-projects
 
 # Vá para a pasta da aplicação Front End
 $ cd web
