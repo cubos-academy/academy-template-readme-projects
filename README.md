@@ -27,7 +27,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="Cubos Academy" title="#CubosAcademy" src="Capa GItHub.png" />
+    <img alt="Cubos Academy" title="#CubosAcademy" src="assets/Capa GItHub.png" />
 </h1>
 
 <h4 align="center"> 
@@ -85,17 +85,17 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="Nome do Projeto" title="Nome do Projeto" src="./assets/home-mobile.png" width="200px">
+  <img alt="Nome do Projeto" title="Nome do Projeto" src="assets/LightModeMobile.png" width="200px">
 
-  <img alt="Nome do Projeto" title="Nome do Projeto" src="./assets/detalhes-mobile.svg" width="200px">
+  <img alt="Nome do Projeto" title="Nome do Projeto" src="assets/DarkModeMobile.png" width="200px">
 </p>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Nome do Projeto" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
+  <img alt="Nome do Projeto" title="Nome do Projeto" src="assets/LightMode.png" width="400px">
 
-  <img alt="Nome do Projeto" title="Nome do Projeto" src="./assets/sucesso-web.svg" width="400px">
+  <img alt="Nome do Projeto" title="Nome do Projeto" src="assets/DarkMode.png" width="400px">
 </p>
 
 ---
