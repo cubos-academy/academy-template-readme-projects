@@ -10,7 +10,7 @@
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fseu-usuário-aqui%2Fseu-projeto-aqui">
   </a>
   
-  <a href="https://github.com/cubos-academy/academy-template-readme-projects/commits/master">
+  <a href="https://github.com/cubos-academy/academy-template-readme-projects/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/cubos-academy/academy-template-readme-projects">
   </a>
     
