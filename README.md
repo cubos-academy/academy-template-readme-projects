@@ -2,7 +2,7 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/seu-usuário-aqui/seu-projeto-aqui?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/cubosacademy/academy-template-readme-projects?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/seu-usuário-aqui/seu-projeto-aqui">
 
@@ -19,8 +19,8 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/README-ecoleta?style=social">
   </a>
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-Rocketseat-%237519C1">
+  <a href="https://cubos.academy/">
+    <img alt="Feito pela Cubos Academy" src="https://img.shields.io/badge/feito%20por-Cubos-Academy-%D818A5">
   </a>
   
   <a href="https://blog.rocketseat.com.br/">
