@@ -7,7 +7,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/cubos-academy/academy-template-readme-projects">
 
   <a href="https://www.twitter.com/cubosacademy/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fseu-usuário-aqui%2Fseu-projeto-aqui">
+    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fcubos-academy%2Facademy-template-readme-projects">
   </a>
   
   <a href="https://github.com/cubos-academy/academy-template-readme-projects/commits/main">
@@ -20,7 +20,7 @@
   </a>
 
   <a href="https://cubos.academy/">
-    <img alt="Feito pela Cubos Academy" src="https://img.shields.io/badge/feito%20por-Cubos-Academy-%D818A5">
+    <img alt="Feito pela Cubos Academy" src="https://img.shields.io/badge/feito-por%20Cubos%20Academy-D818A5">
   </a>
   
   <a href="https://blog.rocketseat.com.br/">
