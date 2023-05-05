@@ -5,10 +5,6 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/cubos-academy/academy-template-readme-projects?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/cubos-academy/academy-template-readme-projects">
-
-  <a href="https://www.twitter.com/cubosacademy/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fcubos-academy%2Facademy-template-readme-projects">
-  </a>
   
   <a href="https://github.com/cubos-academy/academy-template-readme-projects/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/cubos-academy/academy-template-readme-projects">
@@ -18,14 +14,14 @@
    <a href="https://github.com/tgmarinho/README-ecoleta/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/README-ecoleta?style=social">
   </a>
+  
+   <a href="https://www.twitter.com/cubosacademy/">
+    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fcubos-academy%2Facademy-template-readme-projects">
+  </a>
 
   <a href="https://cubos.academy/">
     <img alt="Feito pela Cubos Academy" src="https://img.shields.io/badge/feito-por%20Cubos%20Academy-D818A5">
   </a>
-  
-  <a href="https://blog.rocketseat.com.br/">
-    <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
-    </a>
   
  
 </p>
