@@ -27,11 +27,11 @@
  
 </p>
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+    <img alt="Cubos Academy" title="#CubosAcademy" src="./assets/banner.png" />
 </h1>
 
 <h4 align="center"> 
-	🚧  Ecoleta ♻️ Concluído 🚀 🚧
+	🚧  Nome do Projeto 💻 Status do Projeto ✨ 🚧
 </h4>
 
 <p align="center">
