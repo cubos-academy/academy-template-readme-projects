@@ -2,9 +2,9 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/cubosacademy/academy-template-readme-projects?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/cubos-academy/academy-template-readme-projects?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/seu-usuário-aqui/seu-projeto-aqui">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/cubos-academy/academy-template-readme-projects">
 
   <a href="https://www.twitter.com/cubosacademy/">
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fseu-usuário-aqui%2Fseu-projeto-aqui">
