@@ -48,11 +48,11 @@
 
 ## 💻 Sobre o projeto
 
-💻 Academy Template README Projects - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+💻 Academy Template README Projects - é o modelo oficial de README de projetos da Cubos Academy.
 
 
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+Projeto desenvolvido durante a **[Turma | Evento ]** oferecida pela [Cubos Academy](https://cubos.academy/).
+A Cubos Academy é uma escola com cursos de tecnologia para todos os perfis, do iniciante ao avançado.
 
 ---
 
@@ -76,8 +76,8 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+<a href="https://www.figma.com/files/project/77994470/%F0%9F%93%84-Templates-para-Projetos%2C-Eventos-e-Cursos?fuid=1110596132085818429">
+  <img alt="Made by Cubos Academy" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
 
@@ -119,10 +119,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone git@github.com:cubos-academy/academy-template-readme-projects.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd README-ecoleta
+$ cd academy-template-readme-projects
 
 # Vá para a pasta server
 $ cd server
