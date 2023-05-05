@@ -31,7 +31,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Nome do Projeto 💻 Status do Projeto ✨ 🚧
+	🚧  Nome do Projeto 📄 Status do Projeto ✨ 🚧
 </h4>
 
 <p align="center">
@@ -48,7 +48,7 @@
 
 ## 💻 Sobre o projeto
 
-💻 Academy Template README Projects - é o modelo oficial de README de projetos da Cubos Academy.
+📄 Academy Template README Projects - é o modelo oficial de README de projetos da Cubos Academy.
 
 
 Projeto desenvolvido durante a **[Turma | Evento ]** oferecida pela [Cubos Academy](https://cubos.academy/).
