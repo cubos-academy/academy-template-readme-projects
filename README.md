@@ -234,7 +234,7 @@ Um praise para os cúbicos que contribuíram neste projeto 👏
 
 ---
 
-## 🦸 Autor
+## 🧙‍♂️ Autor
 
 <a href="https://www.figma.com/@caiux">
  <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQEDfulqSVXZqw/profile-displayphoto-shrink_200_200/0/1674667231041?e=1688601600&v=beta&t=C-f9fp3xJDwXm1u4c6eMwpWfVIyW0eCTDAKGIyNdRJA" width="100px;" alt=""/>
