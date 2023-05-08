@@ -56,7 +56,7 @@
 📄 Academy Template README Projects - é o modelo oficial de README de projetos da Cubos Academy.
 
 
-Projeto desenvolvido durante a **[Turma | Evento]** oferecida pela [Cubos Academy](https://cubos.academy/).
+Projeto desenvolvido durante a **[Turma | Evento]** de [ [Desenvolvimento de Software](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [On Demand](https://cubos.academy/cubosondemand) ] oferecida pela [Cubos Academy](https://cubos.academy/).
 
 A Cubos Academy é uma escola com cursos de tecnologia para todos os perfis, do iniciante ao avançado.
 
