@@ -31,7 +31,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Nome do Projeto 📄 ![Em Desenvolvimento](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green) | ![Concluído](https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen)✨ 🚧
+	🚧  Nome do Projeto 📄  <img alt="GitHub language count" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green"> | ![Concluído](https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen)✨ 🚧
 </h4>
 
 <p align="center">
