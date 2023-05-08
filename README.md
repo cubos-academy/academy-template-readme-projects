@@ -31,7 +31,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Nome do Projeto 📄 Status do Projeto ✨ 🚧
+	🚧  Nome do Projeto 📄 ![Badge em Desenvolvimento](http://img.shields.io/static/v1label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN) ✨ 🚧
 </h4>
 
 <p align="center">
