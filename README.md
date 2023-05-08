@@ -31,8 +31,12 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Nome do Projeto 📄  <img alt="GitHub language count" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green"> | ![Concluído](https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen)✨ 🚧
+	🚧  Nome do Projeto ✨ 🚧
 </h4>
+
+<p align="center">
+	<img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green"> | <img alt="Status Concluído" src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen">
+</p>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
