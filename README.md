@@ -10,7 +10,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/cubos-academy/academy-template-readme-projects">
   </a>
   
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <!-- <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> -->
   
    <a href="https://cubos.academy/">
     <img alt="Feito pela Cubos Academy" src="https://img.shields.io/badge/feito-por%20Cubos%20Academy-D818A5">
@@ -246,7 +246,7 @@ Um praise para os cúbicos que contribuíram neste projeto 👏
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+<!-- Este projeto esta sobe a licença [MIT](./LICENSE). -->
 
 Feito com ❤️ por Caio Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/caiovslopes/)
 
